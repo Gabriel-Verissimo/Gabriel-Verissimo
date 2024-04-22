@@ -28,6 +28,20 @@ Me chamo **Gabriel Veríssimo**, sou do Rio de Janeiro, Brasil e atuo como softw
 <br />
 <br />
 
+ <h5>BACK-END</h5>
+    <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank">
+   <code><img heigth="50" width="50" src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png"></code> 
+  </a>
+  <a href="https://spring.io/why-spring" target="_blank">
+   <code><img heigth="50" width="50" src="https://logodix.com/logo/1614306.png"></code> 
+  </a>
+   <a href="https://dev.mysql.com/doc/" target="_blank">
+   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code> 
+  </a>
+    <a href="https://www.mongodb.com/pt-br" target="_blank">
+   <code><img height="50px" width="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"></code>
+  </a>
+  
 <h5>FRONT-END</h5>
     <a href="https://devdocs.io/javascript/" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
@@ -37,14 +51,6 @@ Me chamo **Gabriel Veríssimo**, sou do Rio de Janeiro, Brasil e atuo como softw
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> 
-  </a>
-  
- <h5>BACK-END</h5>
-   <a href="https://dev.mysql.com/doc/" target="_blank">
-   <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code> 
-  </a>
-    <a href="https://www.mongodb.com/pt-br" target="_blank">
-   <code><img height="50px" width="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"></code>
   </a>
   
 <h5>FERRAMENTAS</h5>
