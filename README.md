@@ -33,10 +33,13 @@ Me chamo **Gabriel Veríssimo**, sou do Rio de Janeiro, Brasil e atuo como softw
    <code><img heigth="50" width="50" src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png"></code> 
   </a>
   <a href="https://spring.io/why-spring" target="_blank">
-   <code><img heigth="50" width="50" src="https://logodix.com/logo/1614306.png"></code> 
+   <code><img heigth="40" width="40" src="https://logodix.com/logo/1614306.png"></code> 
   </a>
    <a href="https://dev.mysql.com/doc/" target="_blank">
    <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code> 
+  </a>
+  <a href="https://www.postgresql.org/about/" target="_blank">
+   <code><img heigth="50" width="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"></code> 
   </a>
     <a href="https://www.mongodb.com/pt-br" target="_blank">
    <code><img height="50px" width="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"></code>
